@@ -13,6 +13,21 @@ This program was made by Jacky He on 01/01/2022.
 - Three.js
 > This repository does not include these modules.
 
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run these following commands:
+
+``` bash
+
+# Install dependencies (only for first time)
+npm init @vitejs/app
+npm install three
+
+# Serve at localhost:3000
+npm run dev
+
+```
+
 ## Use of Project
 This project requires that the user be fully entranced on the rotating donut until its next edition is released.
 
