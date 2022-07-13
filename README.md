@@ -9,8 +9,8 @@ This program was made by Jacky He on 01/01/2022.
 - This project is still in progress. While there isn’t much to progress from this, I hope to eventually implement a splashing animation once I feel very much comfortable with Three.js and perhaps other modules.
 
 ## Tools Used
-- ViteJS
 - Three.js
+- ViteJS
 > This repository does not include these modules.
 
 ## Setup
