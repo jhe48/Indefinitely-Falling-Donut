@@ -29,7 +29,7 @@ npm run dev
 ```
 
 ## Use of Project
-This project requires that the user be fully entranced on the rotating donut until its next edition is released.
+There's no use for this project. I am just experimenting with Three.js and how I can elevate websites using it. 
 
 # Snapshots of Current Version
 
