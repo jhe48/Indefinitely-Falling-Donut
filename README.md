@@ -28,9 +28,6 @@ npm run dev
 
 ```
 
-## Use of Project
-There's no use for this project. I am just experimenting with Three.js and how I can elevate websites using it. 
-
 # Snapshots of Current Version
 
 ![Screenshot 2022-07-01 at 10 58 00 PM](https://user-images.githubusercontent.com/78707612/176987182-00c42f34-ac9d-41e6-bdac-cb2ca216d07d.png)
